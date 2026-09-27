@@ -15,4 +15,4 @@ Deployments built from this framework should:
 - expose only explicitly selected knowledge in Pinky's snapshot.
 
 Report vulnerabilities privately through
-[GitHub security advisories](https://github.com/scottishramp/pinky-and-the-brain/security/advisories/new).
+[GitHub security advisories](https://github.com/scottishramp/pinky-and-the-brain-agents/security/advisories/new).

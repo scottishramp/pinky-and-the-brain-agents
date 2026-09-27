@@ -1,6 +1,6 @@
-# Pinky and The Brain
+# Pinky and The Brain Agents
 
-A two-agent architecture for personal assistants that need fast chat and durable memory.
+A cost-efficient, two-agent architecture for personal assistants that need fast chat and durable memory.
 
 - **Pinky** replies in seconds from a read-only knowledge snapshot and recent chat history.
 - **Brain** runs asynchronously with tools, updates the canonical knowledge repo, and publishes the next snapshot.

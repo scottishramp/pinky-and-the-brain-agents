@@ -1,10 +1,10 @@
 {
-  "name": "pinky-and-the-brain",
+  "name": "pinky-and-the-brain-agents",
   "version": "1.0.0",
   "private": true,
   "description": "Two-agent architecture: Pinky answers now from a snapshot; Brain learns later and writes the knowledge base.",
   "license": "MIT",
-  "repository": "github:scottishramp/pinky-and-the-brain",
+  "repository": "github:scottishramp/pinky-and-the-brain-agents",
   "engines": {
     "node": ">=20"
   },
